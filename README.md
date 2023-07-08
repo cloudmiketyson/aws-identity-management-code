@@ -26,3 +26,7 @@ There are lots of hands-on exercises using multiple Amazon Web Services (AWS) fr
 - AWS Directory Services, Identity Federation, AWS Single Sign-On, Amazon Cognito
 
 Learn more and [enroll in this course](https://digitalcloud.training/courses/aws-identity-management-aws-iam-aws-sso-and-federation/) now to gain in-depth knowledge of identity management, SSO, and federation on AWS
+
+
+Here is a link to the original repo
+git@github.com:nealdct/aws-identity-management-code.git
